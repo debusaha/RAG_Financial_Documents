@@ -1,0 +1,16 @@
+# local config
+.env
+.env.*
+
+# local model or data files
+models/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+RAG_Financial_Documents.ipynb
+
+# Variales / File-Folder Locations
+
+
+# Python cruft
+__pycache__/
